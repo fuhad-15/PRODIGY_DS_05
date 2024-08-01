@@ -44,17 +44,6 @@ To analyze traffic accident data and visualize patterns, follow these steps:
 
 6. **View Results:** The script generates visualizations and saves results in the `results/` directory.
 
-### Example Output
-
-Here are some visualizations and results produced by the analysis script:
-
-- **Accident Hotspot Map**
-- **Accident Distribution by Weather Condition**
-- **Accident Analysis by Time of Day**
-
-![Accident Hotspot Map](results/hotspot_map.png)
-![Weather Condition Distribution](results/weather_distribution.png)
-![Accidents by Time of Day](results/time_of_day_analysis.png)
 
 ### Key Findings
 
@@ -176,17 +165,6 @@ To analyze traffic accident data and visualize patterns, follow these steps:
 
 6. **View Results:** The script generates visualizations and saves results in the `results/` directory.
 
-## Example Output
-
-Here are some visualizations and results produced by the analysis script:
-
-- **Accident Hotspot Map**
-- **Accident Distribution by Weather Condition**
-- **Accident Analysis by Time of Day**
-
-![Accident Hotspot Map](results/hotspot_map.png)
-![Weather Condition Distribution](results/weather_distribution.png)
-![Accidents by Time of Day](results/time_of_day_analysis.png)
 
 ## Key Findings
 
